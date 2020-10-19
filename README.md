@@ -17,7 +17,8 @@ Here, in this chatbot we gonna provide the plants and herbs with their medicinal
 Hope you find it useful.
 Thank you.
 
-# Block Diagram: https://photos.app.goo.gl/NcQsZ5nadMgYNAH4A
+# Block Diagram: ![BOT](https://user-images.githubusercontent.com/70839434/96464367-59965580-1245-11eb-9352-a807c8611be6.png)
+
 
 # Reference Links:
 + 1.https://pypi.org/project/pyttsx3/ (To know more about text-to-speech)
