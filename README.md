@@ -10,5 +10,5 @@
 # Block Diagram:
 
 # Reference Links:
-+ 1.https://pypi.org/project/pyttsx3/
-+ 2.https://www.lfd.uci.edu/~gohlke/pythonlibs/ (To know more about text-to-speech)
++ 1.https://pypi.org/project/pyttsx3/ (To know more about text-to-speech)
++ 2.https://www.lfd.uci.edu/~gohlke/pythonlibs/ 
