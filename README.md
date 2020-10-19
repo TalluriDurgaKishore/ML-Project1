@@ -4,7 +4,8 @@
   + 1.Durga Kishore Talluri(18pa1a05f5)
   + 2.Tanuja Suvvada(18pa1a05f3)
   + 3.Bhagyasri Chinthapalli(18pa1a0534)
-# Youtube Link: https://youtu.be/B36Nmue446M
+# Youtube Link: 
+   [![Youtune Link](https://img.youtube.com/vi/B36Nmue446M/0.jpg)](https://www.youtube.com/watch?v=B36Nmue446M)
 
 # Objectives of our bot: 
 1.This is Our Bot which is about medicinal uses(Herbal Bot)
