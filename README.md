@@ -1,4 +1,4 @@
-# ML-Project1
+# Herbal Bot
 # Team Members:
   + 1.Durga Kishore Talluri(18pa1a05f5)
   + 2.Tanuja Suvvada(18pa1a05f3)
