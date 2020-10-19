@@ -2,14 +2,14 @@
 # Team Members:
   + 1.Durga Kishore Talluri(18pa1a05f5)
   + 2.Tanuja Suvvada(18pa1a05f3)
-  + 3.Bhagya sri Chinthapalli(18pa1a0534)
-# Youtube Link: https://youtu.be/B36Nmue446M
+  + 3.Bhagyasri Chinthapalli(18pa1a0534)
+# Youtube Link:
 
 # Objectives of our bot: 
-1. This is Our Bot which is about medicinal uses(Herbal Bot)
+1.This is Our Bot which is about medicinal uses(Herbal Bot)
 2.Generally we have lot of medical plants around us but we  are unable to notice their uses .
 3.This bot helps us to find the medical uses of plants that surround us.
-4.Finally,Main agenda of this chatbot is to let you know the medical uses of the plants and herbs around.
+4.Finally,the Main agenda of this chatbot is to let you know the medical uses of the plants and herbs around.
 Natural cure is always preferable.  
 Leafs or roots of a plant that you see daily in your garden may cure your health issue which you are suffering from a long. 
 So it is always better to know the medicinal uses of plants. 
