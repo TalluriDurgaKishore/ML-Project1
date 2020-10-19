@@ -23,7 +23,6 @@ def input_data():
     print('1.Neem','2.Tulasi','3.Alovera','4.Hibiscus',sep='\n')
     n=int(input('Enter your choice[1-4] : '))
     if n==1:
-	print()
         print('Common Name = Neem',
         'Telugu Name = VapaPandu',
         'Medicinal use : skin diseases,hair growth...etc',
@@ -33,9 +32,8 @@ def input_data():
         '-> Used to treat head lice',
         '-> Acts as mosquito repellent',
         '-> Is effective against skin problems',
-        '-> Prevents oral problems','    -------***-------',sep='\n')
+        '-> Prevents oral problems',sep='\n')
     elif n==2:
-	print()
         print('Common Name = Tulasi',
             'Parts Used = Leaves/Seed',
 	        'Medicinal use : vitamin A and C,fever,skin...etc',
@@ -44,18 +42,16 @@ def input_data():
             '-> It is aso effective in treating skin disorders, itching ans issues like ringworms.',
             '-> It can be made into teas or can be had raw, powdered, paste ot in form herbal supplements.',
             '-> Is great for dental health and for healthy gums.',
-            '-> It helps in relieving from fever, headache, sore throat, cold, cought, fly and chest congestion.','    -------***-------',sep='\n')
+            '-> It helps in relieving from fever, headache, sore throat, cold, cought, fly and chest congestion.',sep='\n')
     elif n==3:
-	print()
         print('Common name = Aloe vera',
             'Telugu name = Kalabanda',
             'Medicinal use : Vitamin-C,Cough,Diabetes,cold,Laxativ,hyper acidity.',
             '->  Aloe vera is good for irritated or inflamed skin.',
             '->  Aloe vera helps repair your skin from the most tender of wounds.',
             '->  Aloe vera helps speed the process of healing to burns and other wounds.',
-            '->  Aloe vera is hydrating, rejuvenating and toning for your skin.','    -------***-------',sep='\n')
+            '->  Aloe vera is hydrating, rejuvenating and toning for your skin.',sep='\n')
     elif n==4:
-	print()
         print('Common Name = Hibiscus',
             'Parts Used = Flowers and Leaves',
             'Medicinal use : vitamin C, minerals and various antioxidants',
@@ -63,7 +59,7 @@ def input_data():
             '-> Skin care , Anti-ageing',
             '-> Reduces blood pressure , Weight loss and digestion',
             '-> Treat wounds Oil',
-            '-> Lower cholesterol , Cough and cold.','    -------***-------',sep='\n')
+            '-> Lower cholesterol , Cough and cold.',sep='\n')
     else :
         voice_msg(['Looks like an invalid input ...'])
         voice_msg(['Please select from given options..']) 
