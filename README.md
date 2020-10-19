@@ -1,4 +1,5 @@
-# Herbal Bot
+# Herbal Bot : ![herbal](https://user-images.githubusercontent.com/70839434/96465523-ae869b80-1246-11eb-9773-b1c45384232c.jpeg)
+
 # Team Members:
   + 1.Durga Kishore Talluri(18pa1a05f5)
   + 2.Tanuja Suvvada(18pa1a05f3)
